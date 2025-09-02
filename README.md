@@ -1,5 +1,6 @@
 ## Hi!👋I'm Tai Nguyen
-🌱 I’m currently studying IT Infrastructure and Design with an intention to get into Project Management and UI/UX
+🌱 I’m currently studying IT Infrastructure and Design with the intention to get into Project Management and UI/UX
+🔭 I’m currently working on brand visual identity and strategy
 
 <!--
 **NobodySleep/NobodySleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
